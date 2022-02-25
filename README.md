@@ -1,6 +1,6 @@
 # prak1
 
-Kumpulan source code percobaan, latihan, dan tugas Praktikum 1 Modul Workshop Pemrograman Perangkat Bergerak 
+Kumpulan source code percobaan, latihan, dan tugas Praktikum Minggu 2 Modul Workshop Pemrograman Perangkat Bergerak 
 Nama  : Aqyun Rista Maulidin
 NRP   : 3120600014
 Kelas : 2 D4 Teknik Informatika A
